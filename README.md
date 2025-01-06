@@ -8,8 +8,10 @@
 
 3. Install requirements:
     `cd pyspeedtype`
+
     `chmod +x required.sh`
-    `./requiredsh`
+
+    `./required.sh`
 
 4. Run CLI:
     `python3 pyspeed.py`
